@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning git and github
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me piyushsolanki2926@gmail.com
+- 📫 How to reach me piyushsolanki1916@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
