@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Animation" align="right">
 </p>
 
 # 🌿 Welcome to My Digital Playground!  
@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB400&center=true&width=435&lines=Coding+is+an+Art!;Innovation+Meets+Creativity!" alt="Typing SVG">
 </p>
 
+---  
 ## Who Am I?  
 🎯 **Passionate Tech Enthusiast** | ⚡ **Automation Explorer** | 🎨 **Creative Coder**
 
