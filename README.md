@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/894cb12d-527c-4214-95a5-aec19cd9ef29)
-" width="300"/>
+   <img src="https://www.google.com/search?sca_esv=74f7731948ddd43d&sxsrf=AHTn8zqosBscbmPlkX5GYIzqtgbKtYWLXA:1739509936312&q=gif+png+shin+chan+gif+coding&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRIuM809sakZkHUv2wx3-Car7r5rXl8lY-tF0zUVOVQRsgfYXgCvnLSTSRxzEExBXB4Do3LSlvIWMYB6T6O-3kk4FcenPADa8czDa4lv8S3V1AKUlW0Nzyd9UsdZZop_IDINALHpadiC8NZvaE-1A55e_mW4I&udm=2&sa=X&ved=2ahUKEwi_99i-s8KLAxWuzTgGHdwMAgsQxKsJegUIjQEQAQ&ictx=0&biw=1470&bih=832&dpr=2#vhid=IuuFt_GB96SgeM&vssid=mosaic" width="200"/>
+</p>
 </p>
 
 ---
