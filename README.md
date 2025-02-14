@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a B.Tech student at ITM Skills University who loves co
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-solanki-69068526b/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PIYUSH-108-SOLANKI) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/piyush_solanki108) 
-📧 Email: piyushsolanki1916@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushsolanki1916@gmail.com)
 
 ---
 
