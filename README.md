@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/yoSMyCZ5zKkAAAAd/shinchan-crayon-shinchan.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/6b/ff/6e/6bff6ed97f6e3be6183a58991e25bb92.gif" width="300"/>
 </p>
 
 ---
@@ -52,3 +52,4 @@
 
 ### ⚡ Random Fun Fact:
 > "The best error messages are written in haiku!" 😉
+
