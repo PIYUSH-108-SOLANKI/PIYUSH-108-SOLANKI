@@ -3,8 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=%23F7D060&center=true&width=600&lines=Welcome+to+My+GitHub!;Coding+is+an+Art!;Automate+Everything!;Let's+Build+Something+Awesome!" />
 </p>
-
-![Hacker Animation](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+[Hacker Animation](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
 
 ---
 
