@@ -1,13 +1,16 @@
-### 🚀 Welcome to My Digital Playground! 🚀
+### Welcome to My Digital Playground!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=%23F7D060&center=true&width=600&lines=Welcome+to+My+GitHub!;Coding+is+an+Art!;Automate+Everything!;Let's+Build+Something+Awesome!" />
 </p>
-![Hacker Animation](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+
+<p align="center">
+  <img src="https://media.tenor.com/yoSMyCZ5zKkAAAAd/shinchan-crayon-shinchan.gif" width="300"/>
+</p>
 
 ---
 
-### 🎭 Who Am I?
+### Who Am I?
 
 💻 **Code Enthusiast** | 🔥 **Automation Explorer** | 🎨 **Creative Techie**
 
@@ -17,13 +20,13 @@
 
 ---
 
-### 🔥 Live GitHub Stats
+### Live GitHub Stats
 ![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PIYUSH-108-SOLANKI&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSH-108-SOLANKI&layout=compact&theme=radical)
 
 ---
 
-### 🎥 Coding in Action:
+### Coding in Action:
 ![Bitmoji Coding](https://media.giphy.com/media/l3vRn6ZTJd3Tc7Ody/giphy.gif)
 
 ---
