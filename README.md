@@ -1,41 +1,45 @@
-### 🚀 Welcome to My Universe! 🚀
+### 🚀 Welcome to My Digital Playground! 🚀
 
-```ascii
-  _____  _       _     _       _        
- |  __ \(_)     (_)   | |     | |       
- | |__) |_  __ _ _  __| | __ _| |_ ___  
- |  ___/ | |/ _` | |/ _` |/ _` | __/ _ \ 
- | |   | | | (_| | | (_| | (_| | ||  __/ 
- |_|   |_|_|\__,_|_|\__,_|\__,_|\__\___| 
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=%23F7D060&center=true&width=600&lines=Welcome+to+My+GitHub!;Coding+is+an+Art!;Automate+Everything!;Let's+Build+Something+Awesome!" />
+</p>
 
-![Crazy Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Hacker Animation](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
 
 ---
 
 ### 🎭 Who Am I?
 
-💻 **Tech Explorer** | 🎨 **Creative Coder** | 🤖 **Automation Enthusiast**
+💻 **Code Enthusiast** | 🔥 **Automation Explorer** | 🎨 **Creative Techie**
 
-- 🔥 Always experimenting with **wild projects**
-- 🎨 Love making **crazy UI/UX experiences**
-- 🕹️ Huge fan of **glitch effects, animations & AI**
-
----
-
-### ⚡ Interactive Tech Stack:
-![Python](https://img.shields.io/badge/-Python-ffde57?style=for-the-badge&logo=python&logoColor=black) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+- 💡 **Always Experimenting** with new tech
+- 🚀 **Building stuff with Python, Flask, HTML, CSS, Java, C++**
+- 🛠️ **Loves UI/UX, futuristic designs & animations**
 
 ---
 
-### 🎥 Crazy Animation Mode:
+### 🔥 Live GitHub Stats
+![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PIYUSH-108-SOLANKI&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSH-108-SOLANKI&layout=compact&theme=radical)
+
+---
+
+### 🎥 Coding in Action:
 ![Bitmoji Coding](https://media.giphy.com/media/l3vRn6ZTJd3Tc7Ody/giphy.gif)
 
 ---
 
-### 🌐 Connect with Me:
+### 🛠️ Tech Stack:
+![Python](https://img.shields.io/badge/-Python-ffde57?style=for-the-badge&logo=python&logoColor=black) 
+![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=css3)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+
+---
+
+### 🌐 Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-solanki-69068526b/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PIYUSH-108-SOLANKI) 
@@ -44,13 +48,5 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PIYUSH-108-SOLANKI&show_icons=true&theme=tokyonight)
-
----
-
-### 🚀 Random Fun Fact:
-> I might be part **AI**, part **human**, but I code like a wizard! ✨
-
-
-
+### ⚡ Random Fun Fact:
+> "The best error messages are written in haiku!" 😉
